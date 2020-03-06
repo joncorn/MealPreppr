@@ -1,0 +1,6 @@
+framework module Pods_MealPreppr {
+  umbrella header "Pods-MealPreppr-umbrella.h"
+
+  export *
+  module * { export * }
+}
